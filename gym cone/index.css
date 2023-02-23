@@ -1,0 +1,190 @@
+.head{
+    
+    display: inline-block;
+    width: 100%;
+    height: 100px;
+    background-color: rgb(96, 86, 89);
+   
+  
+
+}
+*{
+    font-family: cursive;
+    color: white;
+   
+}
+
+
+.head ul{
+    display: flex;
+ justify-content: center;
+    list-style: none;
+    margin-top: 25px;
+    
+    
+   
+}
+.head ul li a:hover{
+    text-decoration: rgb(210, 21, 78) underline;
+}
+.head ul li  a{
+    color: white;
+    padding: 28px;
+    margin: -8px;
+    font-size: 23px;
+    text-decoration: none;
+    font-weight: bold;
+    font-family:cursive;
+}
+#sign{
+
+text-align:end;
+
+
+
+
+
+
+}
+#sign li a{
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 20px;
+    border: 2px solid rgb(28, 23, 23);
+    border-radius: 15px;
+    background-color: black;
+
+    
+}
+#sign li{
+    list-style: none;
+
+  
+    
+}
+#sign li a:hover{
+    text-decoration: white underline;
+}
+.mid{
+  
+    width:100%;
+    height:600px;
+    background-image:url(bg1.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+#para{
+    text-align: center;
+   
+    width: 60%;
+   position: relative;
+   top:200px;
+   padding: 30px;
+   font-size: 25px;
+}
+#btn{
+    background-color: rgb(46, 41, 37);
+    padding: 0px;
+    margin: 2px;
+ 
+    font-size: 20px;
+
+  
+
+}
+#btn:hover{
+    text-decoration:white underline;
+}
+p1{
+    color: rgb(225, 81, 8);
+}
+.story{
+    display:flex;
+    width: 100%;
+    height: 500px;
+   
+   
+}
+#video{
+   
+    height: 300px;
+    width: 40%;
+   
+    position: relative;
+    top: 22%;
+    left: 29px;
+}
+#text{
+    text-align: center;
+    height: 300px;
+    width: 50%;
+    position: relative;
+    top: 22%;
+    left: 6%;
+    font-size: 20px;
+   
+ 
+
+}
+h2,p3{
+    color: black;
+}
+#pbtn{
+  
+    background-color: rgb(126 89 70);
+    margin: 12px;
+    
+    font-size: 28px;
+}
+#pbtn:hover{
+    text-decoration:white underline;
+}
+.register{
+   
+   
+    width: 100%;
+    height: 600px;
+}
+form{
+    padding: 0px;
+    margin: 0px;
+    width: 70%;
+ 
+    
+
+}
+input{
+    padding: 16px;
+    margin: 41px;
+    color: black;
+}
+#contact{
+    position: relative;
+    top: 0px;
+    left: -78px;
+    font-size: 24px;
+    text-align: center;
+    
+
+}
+h3,p4{
+    color: black;
+}
+#sub{
+    position: relative;
+    left: -2%;
+    width: 50%;
+  
+}
+#pic{
+    background-image: url(bg2.jpg);
+    border: 2px solid burlywood;
+    width: 42%;
+    height: 380px;
+    position: relative;
+    left: 58%;
+    top: -68%;
+}
+
+
